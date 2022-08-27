@@ -1,0 +1,9 @@
+This is a Web- Based Bank application for managing currency and transactions.
+
+account:1-name = js
+account:1-password = 1111
+
+account:2-name = jd
+account:2-password = 2222  
+
+click hear for live preview of the project --> https://bankistdatha.netlify.app/ 
